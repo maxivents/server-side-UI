@@ -1,2 +1,1 @@
-# server-side-UI
-Server-Side-UI-Repository
+The **Server-Side-UI-Repository** contains **Server-Side-Scripting**.
